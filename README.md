@@ -1,4 +1,4 @@
-# Project 5 – Cohort Retention & Revenue Analysis
+# Cohort Retention & Revenue Analysis
 
 This project simulates user sign-ups and monthly activity for Agoda-like customers.
 
